@@ -33,8 +33,10 @@ Otherwise, return the light’s current status.
 
 For example, suppose that LightBoard sim = new LightBoard(7, 5) creates a light board with the initial state shown below, where true represents a light that is on and false represents a light that is off. Lights that are off are shaded.
 
-<img width="729" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.10/assets/57818506/142e8bf1-ed2d-4cc3-8eb9-f33e0d4952bf">
+<img width="730" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.10/assets/57818506/863c4d27-7798-4d05-b2a5-3675491bcaff">
+
 
 Sample calls to evaluateLight are shown below
 
-<img width="727" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.10/assets/57818506/9a276880-e2bb-412b-8338-df2d928e2861">
+<img width="731" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.10/assets/57818506/89be3539-140c-43d4-a7f0-fe954abda253">
+
